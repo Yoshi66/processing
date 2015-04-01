@@ -18,6 +18,6 @@ fill(#8FA89B,200);
 ellipse(400,100,150,100);
 
 
-ellipsMode(CORNER);
+ellipseMode(CORNER);
 fill(#B3B597);
 ellipse(500,100,150,150);
